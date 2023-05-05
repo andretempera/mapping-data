@@ -13,3 +13,8 @@ For this exercise, you will be using data from the [sample_data/](/../../tree/ma
 
 ## Questions or Issues?
 Please use the [Issues](/../../issues) tab to report any issues or ask questions. Any feedback is welcome!
+
+## Andy was here
+- played around with exercise.ipynb
+- edited this readme file
+- used git commands in terminal
